@@ -45,4 +45,4 @@ This project is licensed under the MIT License.
 =======
 # To-Do-Mobile-App-With-SqLite
 A simple basic To Do App implementation with database.
->>>>>>> 6e1e30d26395dd88c1d1ef009b2bc9e384006da2
+
