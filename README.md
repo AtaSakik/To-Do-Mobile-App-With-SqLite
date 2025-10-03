@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # To Do App
 
 A simple and intuitive To Do List application built with Flutter. This app allows users to add, view, update, and delete tasks, helping them manage their daily activities efficiently.
@@ -42,3 +43,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 This project is licensed under the MIT License.
+=======
+# To-Do-Mobile-App-With-SqLite
+A simple basic To Do App implementation with database.
+>>>>>>> 6e1e30d26395dd88c1d1ef009b2bc9e384006da2
