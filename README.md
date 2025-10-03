@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # To Do App
 
 A simple and intuitive To Do List application built with Flutter. This app allows users to add, view, update, and delete tasks, helping them manage their daily activities efficiently.
